@@ -32,5 +32,29 @@
         de unidades de almacenamiento
       </description>
     </item>
+    <item>
+      <title>Políticas de un cortafuegos</title>
+      <link>https://romcarche.github.io/azul/#articulo3</link>
+      <description>
+        Cuando configuramos un cortafuegos seguimos una determinada política general a la que vamos añadiendo
+        excepciones
+      </description>
+    </item>
+    <item>
+      <title>MikroTik - Acceso HTTPS</title>
+      <link>https://romcarche.github.io/azul/#articulo4</link>
+      <description>
+        Para poder administrar un router MikroTik de manera segura desde un navegador web, necesitamos habilitar
+        el protocolo HTTPS.
+      </description>
+    </item>o
+    <item>
+      <title>SAD - Unidad: Almacenamient</title>
+      <link>https://romcarche.github.io/azul/#articulo5</link>
+      <description>
+        Este audio nos presenta la unidad de "Almacenamiento" del módulo "Seguridad y alta disponibilidad" del CFGS
+        "Administración de sistemas informáticos en red"
+      </description>
+    </item>
   </channel>
 </rss>
