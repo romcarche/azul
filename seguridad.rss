@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- La parte fija del fichero xml correspondiente a un rss -->
+<rss version="2.0">
+  <channel>
+    <title>Seguridad Informática</title>
+    <link>https://romcarche.github.io/azul/</link>
+    <description>Artículos y material didáctico sobre seguridad informática de ciclos de FP</description>
+    <!-- La parte fija opcional -->
+    <language>es-ES</language>
+    <image>
+      <title>Seguridad Informática - RSS</title>
+      <url>https://romcarche.github.io/azul/rss.svg</url>
+      <link>https://romcarche.github.io/azul/</link>
+      <width>90</width>
+      <height>36</height>
+    </image>
+    <!-- La parte variable, la que corresponde a cada noticia o ítem -->
+    <item>
+      <title>Qué es un cortafuegos y para qué sirve</title>
+      <link>http://romcarche.github.io/azul/#articulo1</link>
+      <description>
+        En esta unidad vamos a centrarnos en la protección de nuestros equipos y servidores frente a
+        algunas de las amenazas que llegan a nuestros sistemas por medio de las redes de ordenadores
+      </description>
+    </item>
+    <item>
+      <title>Copias de seguridad</title>
+      <link>https://romcarche.github.io/azul/#articulo2</link>
+      <description>
+        Cuando se produce una pérdida de datos, principalmente, podemos emplear dos medidas de seguridad pasiva
+        diferentes para intentar recuperarla, las copias de seguridad y las aplicaciones de recuperación de archivos
+        de unidades de almacenamiento
+      </description>
+    </item>
+  </channel>
+</rss>
